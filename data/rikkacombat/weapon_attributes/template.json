@@ -1,0 +1,18 @@
+{
+  "attributes": {
+    "two_handed": false,
+    "category": "",
+    "attacks": [
+      {
+        "hitbox": "HORIZONTAL_PLANE",
+        "damage_multiplier": 1,
+        "angle": 120,
+        "upswing": 0.5,
+        "animation": "bettercombat:one_handed_slash_horizontal_left",
+        "swing_sound": {
+          "id": "betterombat:sword_slash"
+        }
+      }
+    ]
+  }
+} 

@@ -3,6 +3,7 @@
   "pack": {
     "description": [
       {
+        "pack_format": 48,
         "text": "Overhaul your Better Combat experience",
         "color": "#5847cf"
       }
