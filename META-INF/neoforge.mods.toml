@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="rikkas_better_combat_overhaul"
+version="1.0.0"
+displayName="Rikka Better Combat"
+description='''Overhaul your Better Combat experience'''

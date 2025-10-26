@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "rikkas_better_combat_overhaul",
+  "version": "1.0.0",
+  "name": "Rikka Better Combat",
+  "description": "Overhaul your Better Combat experience",
+  "depends": {
+    "minecraft": ">=1.21.1"
+  },
+  "environment": "*"
+}
