@@ -4,11 +4,11 @@
     "category": "sword",
     "attacks": [
       {
-        "hitbox": "HORIZONTAL_PLANE",
+        "hitbox": "VERTICAL_PLANE",
         "damage_multiplier": 1,
         "angle": 120,
         "upswing": 0.5,
-        "animation": "one_handed_uppercut_right",
+        "animation": "bettercombat:one_handed_uppercut_right",
         "swing_sound": {
           "id": "bettercombat:sword_slash"
         }

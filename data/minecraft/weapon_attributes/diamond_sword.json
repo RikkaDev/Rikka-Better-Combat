@@ -8,7 +8,7 @@
         "damage_multiplier": 1,
         "angle": 120,
         "upswing": 0.5,
-        "animation": "rikkacombat::warglaive_slash_horizontal_right",
+        "animation": "rikkacombat:warglaive_slash_horizontal_right",
         "swing_sound": {
           "id": "bettercombat:sword_slash"
         }
