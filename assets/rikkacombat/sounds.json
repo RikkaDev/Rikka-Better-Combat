@@ -1,0 +1,102 @@
+{
+  "brutal_slash1": {
+    "sounds": [
+      "rikkacombat:brutal_slash1"
+    ]
+  },
+  "brutal_slash2": {
+    "sounds": [
+      "rikkacombat:brutal_slash2"
+    ]
+  },
+  "brutal_stab1": {
+    "sounds": [
+      "rikkacombat:brutal_stab1"
+    ]
+  },
+  "brutal_stab2": {
+    "sounds": [
+      "rikkacombat:brutal_stab2"
+    ]
+  },
+  "flame_slash1": {
+    "sounds": [
+      "rikkacombat:flame_slash1"
+    ]
+  },
+  "flame_slash2": {
+    "sounds": [
+      "rikkacombat:flame_slash2"
+    ]
+  },
+  "flame_slash3": {
+    "sounds": [
+      "rikkacombat:flame_slash3"
+    ]
+  },
+  "fwing": {
+    "sounds": [
+      "rikkacombat:fwing"
+    ]
+  },
+  "fwoop": {
+    "sounds": [
+      "rikkacombat:fwoop"
+    ]
+  },
+  "gauntlet_hit1": {
+    "sounds": [
+      "rikkacombat:gauntlet_hit1"
+    ]
+  },
+  "generic_swing1": {
+    "sounds": [
+      "rikkacombat:generic_swing1"
+    ]
+  },
+  "generic_swing2": {
+    "sounds": [
+      "rikkacombat:generic_swing2"
+    ]
+  },
+  "heavy_slam1": {
+    "sounds": [
+      "rikkacombat:heavy_slam1"
+    ]
+  },
+  "heavy_slam2": {
+    "sounds": [
+      "rikkacombat:heavy_slam2"
+    ]
+  },
+  "heavy_slam3": {
+    "sounds": [
+      "rikkacombat:heavy_slam3"
+    ]
+  },
+  "knife_slash1": {
+    "sounds": [
+      "rikkacombat:knife_slash1"
+    ]
+  },
+  "knife_slash2": {
+    "sounds": [
+      "rikkacombat:knife_slash2"
+    ]
+  },
+  "sword_swing1": {
+    "sounds": [
+      "rikkacombat:sword_swing1"
+    ]
+  },
+  "sword_swing2": {
+    "sounds": [
+      "rikkacombat:sword_swing2"
+    ]
+  },
+  "sword_swing3": {
+    "sounds": [
+      "rikkacombat:sword_swing3"
+    ]
+  }
+}
